@@ -34,8 +34,8 @@ public class ParallaxEffect : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Move the parallax object with same distance divides a multiplier when the target is moving
-        Vector2 newPos = startPosition + cameraMoveSinceStart / parallaxFactor;
+        // Move the parallax object with same distance times a multiplier when the target is moving
+        Vector2 newPos = startPosition + cameraMoveSinceStart * parallaxFactor;
 
         // The XY position will change based on the target travel speed times the parallax factor, but Z
         transform.position = new Vector3(newPos.x, newPos.y, startZ);
