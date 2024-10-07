@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1630,8 +1630,8 @@ TextureImporter:
       name: AngkorWarrior_71
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2304
+        x: 576
+        y: 2368
         width: 64
         height: 64
       alignment: 0
@@ -1651,7 +1651,7 @@ TextureImporter:
       name: AngkorWarrior_72
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 2304
         width: 64
         height: 64
@@ -1672,7 +1672,7 @@ TextureImporter:
       name: AngkorWarrior_73
       rect:
         serializedVersion: 2
-        x: 128
+        x: 64
         y: 2304
         width: 64
         height: 64
@@ -1693,7 +1693,7 @@ TextureImporter:
       name: AngkorWarrior_74
       rect:
         serializedVersion: 2
-        x: 192
+        x: 128
         y: 2304
         width: 64
         height: 64
@@ -1714,7 +1714,7 @@ TextureImporter:
       name: AngkorWarrior_75
       rect:
         serializedVersion: 2
-        x: 256
+        x: 192
         y: 2304
         width: 64
         height: 64
@@ -1735,7 +1735,7 @@ TextureImporter:
       name: AngkorWarrior_76
       rect:
         serializedVersion: 2
-        x: 320
+        x: 256
         y: 2304
         width: 64
         height: 64
@@ -1756,7 +1756,7 @@ TextureImporter:
       name: AngkorWarrior_77
       rect:
         serializedVersion: 2
-        x: 384
+        x: 320
         y: 2304
         width: 64
         height: 64
@@ -1777,7 +1777,7 @@ TextureImporter:
       name: AngkorWarrior_78
       rect:
         serializedVersion: 2
-        x: 448
+        x: 384
         y: 2304
         width: 64
         height: 64
@@ -1798,7 +1798,7 @@ TextureImporter:
       name: AngkorWarrior_79
       rect:
         serializedVersion: 2
-        x: 512
+        x: 448
         y: 2304
         width: 64
         height: 64
@@ -1819,8 +1819,8 @@ TextureImporter:
       name: AngkorWarrior_80
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2240
+        x: 512
+        y: 2304
         width: 64
         height: 64
       alignment: 0
@@ -1840,7 +1840,7 @@ TextureImporter:
       name: AngkorWarrior_81
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 2240
         width: 64
         height: 64
@@ -1861,7 +1861,7 @@ TextureImporter:
       name: AngkorWarrior_82
       rect:
         serializedVersion: 2
-        x: 128
+        x: 64
         y: 2240
         width: 64
         height: 64
@@ -1882,7 +1882,7 @@ TextureImporter:
       name: AngkorWarrior_83
       rect:
         serializedVersion: 2
-        x: 192
+        x: 128
         y: 2240
         width: 64
         height: 64
@@ -1903,7 +1903,7 @@ TextureImporter:
       name: AngkorWarrior_84
       rect:
         serializedVersion: 2
-        x: 256
+        x: 192
         y: 2240
         width: 64
         height: 64
@@ -1924,7 +1924,7 @@ TextureImporter:
       name: AngkorWarrior_85
       rect:
         serializedVersion: 2
-        x: 320
+        x: 256
         y: 2240
         width: 64
         height: 64
@@ -1945,7 +1945,7 @@ TextureImporter:
       name: AngkorWarrior_86
       rect:
         serializedVersion: 2
-        x: 384
+        x: 320
         y: 2240
         width: 64
         height: 64
@@ -1966,7 +1966,7 @@ TextureImporter:
       name: AngkorWarrior_87
       rect:
         serializedVersion: 2
-        x: 448
+        x: 384
         y: 2240
         width: 64
         height: 64
@@ -1987,7 +1987,7 @@ TextureImporter:
       name: AngkorWarrior_88
       rect:
         serializedVersion: 2
-        x: 512
+        x: 448
         y: 2240
         width: 64
         height: 64
@@ -2008,8 +2008,8 @@ TextureImporter:
       name: AngkorWarrior_89
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2176
+        x: 512
+        y: 2240
         width: 64
         height: 64
       alignment: 0
@@ -2029,8 +2029,8 @@ TextureImporter:
       name: AngkorWarrior_90
       rect:
         serializedVersion: 2
-        x: 64
-        y: 2176
+        x: 576
+        y: 2240
         width: 64
         height: 64
       alignment: 0
@@ -2050,7 +2050,7 @@ TextureImporter:
       name: AngkorWarrior_91
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 2176
         width: 64
         height: 64
@@ -2071,7 +2071,7 @@ TextureImporter:
       name: AngkorWarrior_92
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 2176
         width: 64
         height: 64
@@ -2092,7 +2092,7 @@ TextureImporter:
       name: AngkorWarrior_93
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 2176
         width: 64
         height: 64
@@ -2113,7 +2113,7 @@ TextureImporter:
       name: AngkorWarrior_94
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 2176
         width: 64
         height: 64
@@ -2134,7 +2134,7 @@ TextureImporter:
       name: AngkorWarrior_95
       rect:
         serializedVersion: 2
-        x: 384
+        x: 256
         y: 2176
         width: 64
         height: 64
@@ -2155,7 +2155,7 @@ TextureImporter:
       name: AngkorWarrior_96
       rect:
         serializedVersion: 2
-        x: 448
+        x: 320
         y: 2176
         width: 64
         height: 64
@@ -2176,7 +2176,7 @@ TextureImporter:
       name: AngkorWarrior_97
       rect:
         serializedVersion: 2
-        x: 512
+        x: 384
         y: 2176
         width: 64
         height: 64
@@ -2197,8 +2197,8 @@ TextureImporter:
       name: AngkorWarrior_98
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2112
+        x: 448
+        y: 2176
         width: 64
         height: 64
       alignment: 0
@@ -2218,8 +2218,8 @@ TextureImporter:
       name: AngkorWarrior_99
       rect:
         serializedVersion: 2
-        x: 64
-        y: 2112
+        x: 512
+        y: 2176
         width: 64
         height: 64
       alignment: 0
@@ -2239,7 +2239,7 @@ TextureImporter:
       name: AngkorWarrior_100
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 2112
         width: 64
         height: 64
@@ -2260,7 +2260,7 @@ TextureImporter:
       name: AngkorWarrior_101
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 2112
         width: 64
         height: 64
@@ -2281,7 +2281,7 @@ TextureImporter:
       name: AngkorWarrior_102
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 2112
         width: 64
         height: 64
@@ -2302,7 +2302,7 @@ TextureImporter:
       name: AngkorWarrior_103
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 2112
         width: 64
         height: 64
@@ -2323,8 +2323,8 @@ TextureImporter:
       name: AngkorWarrior_104
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2048
+        x: 256
+        y: 2112
         width: 64
         height: 64
       alignment: 0
@@ -2344,8 +2344,8 @@ TextureImporter:
       name: AngkorWarrior_105
       rect:
         serializedVersion: 2
-        x: 64
-        y: 2048
+        x: 320
+        y: 2112
         width: 64
         height: 64
       alignment: 0
@@ -2365,7 +2365,7 @@ TextureImporter:
       name: AngkorWarrior_106
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 2048
         width: 64
         height: 64
@@ -2386,7 +2386,7 @@ TextureImporter:
       name: AngkorWarrior_107
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 2048
         width: 64
         height: 64
@@ -2407,7 +2407,7 @@ TextureImporter:
       name: AngkorWarrior_108
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 2048
         width: 64
         height: 64
@@ -2428,7 +2428,7 @@ TextureImporter:
       name: AngkorWarrior_109
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 2048
         width: 64
         height: 64
@@ -2449,8 +2449,8 @@ TextureImporter:
       name: AngkorWarrior_110
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1984
+        x: 256
+        y: 2048
         width: 64
         height: 64
       alignment: 0
@@ -2470,8 +2470,8 @@ TextureImporter:
       name: AngkorWarrior_111
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1984
+        x: 320
+        y: 2048
         width: 64
         height: 64
       alignment: 0
@@ -2491,7 +2491,7 @@ TextureImporter:
       name: AngkorWarrior_112
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1984
         width: 64
         height: 64
@@ -2512,7 +2512,7 @@ TextureImporter:
       name: AngkorWarrior_113
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1984
         width: 64
         height: 64
@@ -2533,7 +2533,7 @@ TextureImporter:
       name: AngkorWarrior_114
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1984
         width: 64
         height: 64
@@ -2554,7 +2554,7 @@ TextureImporter:
       name: AngkorWarrior_115
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 1984
         width: 64
         height: 64
@@ -2575,8 +2575,8 @@ TextureImporter:
       name: AngkorWarrior_116
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1920
+        x: 256
+        y: 1984
         width: 64
         height: 64
       alignment: 0
@@ -2596,8 +2596,8 @@ TextureImporter:
       name: AngkorWarrior_117
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1920
+        x: 320
+        y: 1984
         width: 64
         height: 64
       alignment: 0
@@ -2617,7 +2617,7 @@ TextureImporter:
       name: AngkorWarrior_118
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1920
         width: 64
         height: 64
@@ -2638,7 +2638,7 @@ TextureImporter:
       name: AngkorWarrior_119
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1920
         width: 64
         height: 64
@@ -2659,7 +2659,7 @@ TextureImporter:
       name: AngkorWarrior_120
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1920
         width: 64
         height: 64
@@ -2680,7 +2680,7 @@ TextureImporter:
       name: AngkorWarrior_121
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 1920
         width: 64
         height: 64
@@ -2701,8 +2701,8 @@ TextureImporter:
       name: AngkorWarrior_122
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1856
+        x: 256
+        y: 1920
         width: 64
         height: 64
       alignment: 0
@@ -2722,8 +2722,8 @@ TextureImporter:
       name: AngkorWarrior_123
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1856
+        x: 320
+        y: 1920
         width: 64
         height: 64
       alignment: 0
@@ -2743,7 +2743,7 @@ TextureImporter:
       name: AngkorWarrior_124
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1856
         width: 64
         height: 64
@@ -2764,7 +2764,7 @@ TextureImporter:
       name: AngkorWarrior_125
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1856
         width: 64
         height: 64
@@ -2785,7 +2785,7 @@ TextureImporter:
       name: AngkorWarrior_126
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1856
         width: 64
         height: 64
@@ -2806,7 +2806,7 @@ TextureImporter:
       name: AngkorWarrior_127
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 1856
         width: 64
         height: 64
@@ -2827,7 +2827,7 @@ TextureImporter:
       name: AngkorWarrior_128
       rect:
         serializedVersion: 2
-        x: 384
+        x: 256
         y: 1856
         width: 64
         height: 64
@@ -2848,7 +2848,7 @@ TextureImporter:
       name: AngkorWarrior_129
       rect:
         serializedVersion: 2
-        x: 448
+        x: 320
         y: 1856
         width: 64
         height: 64
@@ -2869,7 +2869,7 @@ TextureImporter:
       name: AngkorWarrior_130
       rect:
         serializedVersion: 2
-        x: 512
+        x: 384
         y: 1856
         width: 64
         height: 64
@@ -2890,7 +2890,7 @@ TextureImporter:
       name: AngkorWarrior_131
       rect:
         serializedVersion: 2
-        x: 576
+        x: 448
         y: 1856
         width: 64
         height: 64
@@ -2911,7 +2911,7 @@ TextureImporter:
       name: AngkorWarrior_132
       rect:
         serializedVersion: 2
-        x: 640
+        x: 512
         y: 1856
         width: 64
         height: 64
@@ -2932,7 +2932,7 @@ TextureImporter:
       name: AngkorWarrior_133
       rect:
         serializedVersion: 2
-        x: 704
+        x: 576
         y: 1856
         width: 64
         height: 64
@@ -2953,7 +2953,7 @@ TextureImporter:
       name: AngkorWarrior_134
       rect:
         serializedVersion: 2
-        x: 768
+        x: 640
         y: 1856
         width: 64
         height: 64
@@ -2974,8 +2974,8 @@ TextureImporter:
       name: AngkorWarrior_135
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1792
+        x: 704
+        y: 1856
         width: 64
         height: 64
       alignment: 0
@@ -2995,8 +2995,8 @@ TextureImporter:
       name: AngkorWarrior_136
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1792
+        x: 768
+        y: 1856
         width: 64
         height: 64
       alignment: 0
@@ -3016,7 +3016,7 @@ TextureImporter:
       name: AngkorWarrior_137
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1792
         width: 64
         height: 64
@@ -3037,7 +3037,7 @@ TextureImporter:
       name: AngkorWarrior_138
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1792
         width: 64
         height: 64
@@ -3058,7 +3058,7 @@ TextureImporter:
       name: AngkorWarrior_139
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1792
         width: 64
         height: 64
@@ -3079,7 +3079,7 @@ TextureImporter:
       name: AngkorWarrior_140
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 1792
         width: 64
         height: 64
@@ -3100,7 +3100,7 @@ TextureImporter:
       name: AngkorWarrior_141
       rect:
         serializedVersion: 2
-        x: 384
+        x: 256
         y: 1792
         width: 64
         height: 64
@@ -3121,7 +3121,7 @@ TextureImporter:
       name: AngkorWarrior_142
       rect:
         serializedVersion: 2
-        x: 448
+        x: 320
         y: 1792
         width: 64
         height: 64
@@ -3142,7 +3142,7 @@ TextureImporter:
       name: AngkorWarrior_143
       rect:
         serializedVersion: 2
-        x: 512
+        x: 384
         y: 1792
         width: 64
         height: 64
@@ -3163,7 +3163,7 @@ TextureImporter:
       name: AngkorWarrior_144
       rect:
         serializedVersion: 2
-        x: 576
+        x: 448
         y: 1792
         width: 64
         height: 64
@@ -3184,7 +3184,7 @@ TextureImporter:
       name: AngkorWarrior_145
       rect:
         serializedVersion: 2
-        x: 640
+        x: 512
         y: 1792
         width: 64
         height: 64
@@ -3205,7 +3205,7 @@ TextureImporter:
       name: AngkorWarrior_146
       rect:
         serializedVersion: 2
-        x: 704
+        x: 576
         y: 1792
         width: 64
         height: 64
@@ -3226,7 +3226,7 @@ TextureImporter:
       name: AngkorWarrior_147
       rect:
         serializedVersion: 2
-        x: 768
+        x: 640
         y: 1792
         width: 64
         height: 64
@@ -3247,8 +3247,8 @@ TextureImporter:
       name: AngkorWarrior_148
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1728
+        x: 704
+        y: 1792
         width: 64
         height: 64
       alignment: 0
@@ -3268,8 +3268,8 @@ TextureImporter:
       name: AngkorWarrior_149
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1728
+        x: 768
+        y: 1792
         width: 64
         height: 64
       alignment: 0
@@ -3289,7 +3289,7 @@ TextureImporter:
       name: AngkorWarrior_150
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1728
         width: 64
         height: 64
@@ -3310,7 +3310,7 @@ TextureImporter:
       name: AngkorWarrior_151
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1728
         width: 64
         height: 64
@@ -3331,7 +3331,7 @@ TextureImporter:
       name: AngkorWarrior_152
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1728
         width: 64
         height: 64
@@ -3352,7 +3352,7 @@ TextureImporter:
       name: AngkorWarrior_153
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 1728
         width: 64
         height: 64
@@ -3373,7 +3373,7 @@ TextureImporter:
       name: AngkorWarrior_154
       rect:
         serializedVersion: 2
-        x: 384
+        x: 256
         y: 1728
         width: 64
         height: 64
@@ -3394,7 +3394,7 @@ TextureImporter:
       name: AngkorWarrior_155
       rect:
         serializedVersion: 2
-        x: 448
+        x: 320
         y: 1728
         width: 64
         height: 64
@@ -3415,7 +3415,7 @@ TextureImporter:
       name: AngkorWarrior_156
       rect:
         serializedVersion: 2
-        x: 512
+        x: 384
         y: 1728
         width: 64
         height: 64
@@ -3436,7 +3436,7 @@ TextureImporter:
       name: AngkorWarrior_157
       rect:
         serializedVersion: 2
-        x: 576
+        x: 448
         y: 1728
         width: 64
         height: 64
@@ -3457,7 +3457,7 @@ TextureImporter:
       name: AngkorWarrior_158
       rect:
         serializedVersion: 2
-        x: 640
+        x: 512
         y: 1728
         width: 64
         height: 64
@@ -3478,7 +3478,7 @@ TextureImporter:
       name: AngkorWarrior_159
       rect:
         serializedVersion: 2
-        x: 704
+        x: 576
         y: 1728
         width: 64
         height: 64
@@ -3499,7 +3499,7 @@ TextureImporter:
       name: AngkorWarrior_160
       rect:
         serializedVersion: 2
-        x: 768
+        x: 640
         y: 1728
         width: 64
         height: 64
@@ -3520,8 +3520,8 @@ TextureImporter:
       name: AngkorWarrior_161
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1664
+        x: 704
+        y: 1728
         width: 64
         height: 64
       alignment: 0
@@ -3541,8 +3541,8 @@ TextureImporter:
       name: AngkorWarrior_162
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1664
+        x: 768
+        y: 1728
         width: 64
         height: 64
       alignment: 0
@@ -3562,7 +3562,7 @@ TextureImporter:
       name: AngkorWarrior_163
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1664
         width: 64
         height: 64
@@ -3583,7 +3583,7 @@ TextureImporter:
       name: AngkorWarrior_164
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1664
         width: 64
         height: 64
@@ -3604,7 +3604,7 @@ TextureImporter:
       name: AngkorWarrior_165
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1664
         width: 64
         height: 64
@@ -3625,7 +3625,7 @@ TextureImporter:
       name: AngkorWarrior_166
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 1664
         width: 64
         height: 64
@@ -3646,7 +3646,7 @@ TextureImporter:
       name: AngkorWarrior_167
       rect:
         serializedVersion: 2
-        x: 384
+        x: 256
         y: 1664
         width: 64
         height: 64
@@ -3667,7 +3667,7 @@ TextureImporter:
       name: AngkorWarrior_168
       rect:
         serializedVersion: 2
-        x: 448
+        x: 320
         y: 1664
         width: 64
         height: 64
@@ -3688,7 +3688,7 @@ TextureImporter:
       name: AngkorWarrior_169
       rect:
         serializedVersion: 2
-        x: 512
+        x: 384
         y: 1664
         width: 64
         height: 64
@@ -3709,7 +3709,7 @@ TextureImporter:
       name: AngkorWarrior_170
       rect:
         serializedVersion: 2
-        x: 576
+        x: 448
         y: 1664
         width: 64
         height: 64
@@ -3730,7 +3730,7 @@ TextureImporter:
       name: AngkorWarrior_171
       rect:
         serializedVersion: 2
-        x: 640
+        x: 512
         y: 1664
         width: 64
         height: 64
@@ -3751,7 +3751,7 @@ TextureImporter:
       name: AngkorWarrior_172
       rect:
         serializedVersion: 2
-        x: 704
+        x: 576
         y: 1664
         width: 64
         height: 64
@@ -3772,7 +3772,7 @@ TextureImporter:
       name: AngkorWarrior_173
       rect:
         serializedVersion: 2
-        x: 768
+        x: 640
         y: 1664
         width: 64
         height: 64
@@ -3793,8 +3793,8 @@ TextureImporter:
       name: AngkorWarrior_174
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1600
+        x: 704
+        y: 1664
         width: 64
         height: 64
       alignment: 0
@@ -3814,8 +3814,8 @@ TextureImporter:
       name: AngkorWarrior_175
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1600
+        x: 768
+        y: 1664
         width: 64
         height: 64
       alignment: 0
@@ -3835,7 +3835,7 @@ TextureImporter:
       name: AngkorWarrior_176
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1600
         width: 64
         height: 64
@@ -3856,7 +3856,7 @@ TextureImporter:
       name: AngkorWarrior_177
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1600
         width: 64
         height: 64
@@ -3877,7 +3877,7 @@ TextureImporter:
       name: AngkorWarrior_178
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1600
         width: 64
         height: 64
@@ -3898,7 +3898,7 @@ TextureImporter:
       name: AngkorWarrior_179
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 1600
         width: 64
         height: 64
@@ -3919,8 +3919,8 @@ TextureImporter:
       name: AngkorWarrior_180
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1536
+        x: 256
+        y: 1600
         width: 64
         height: 64
       alignment: 0
@@ -3940,8 +3940,8 @@ TextureImporter:
       name: AngkorWarrior_181
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1536
+        x: 320
+        y: 1600
         width: 64
         height: 64
       alignment: 0
@@ -3961,7 +3961,7 @@ TextureImporter:
       name: AngkorWarrior_182
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1536
         width: 64
         height: 64
@@ -3982,7 +3982,7 @@ TextureImporter:
       name: AngkorWarrior_183
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1536
         width: 64
         height: 64
@@ -4003,7 +4003,7 @@ TextureImporter:
       name: AngkorWarrior_184
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1536
         width: 64
         height: 64
@@ -4024,7 +4024,7 @@ TextureImporter:
       name: AngkorWarrior_185
       rect:
         serializedVersion: 2
-        x: 320
+        x: 192
         y: 1536
         width: 64
         height: 64
@@ -4045,8 +4045,8 @@ TextureImporter:
       name: AngkorWarrior_186
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1472
+        x: 256
+        y: 1536
         width: 64
         height: 64
       alignment: 0
@@ -4066,8 +4066,8 @@ TextureImporter:
       name: AngkorWarrior_187
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1472
+        x: 320
+        y: 1536
         width: 64
         height: 64
       alignment: 0
@@ -4087,7 +4087,7 @@ TextureImporter:
       name: AngkorWarrior_188
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1472
         width: 64
         height: 64
@@ -4108,7 +4108,7 @@ TextureImporter:
       name: AngkorWarrior_189
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1472
         width: 64
         height: 64
@@ -4129,8 +4129,8 @@ TextureImporter:
       name: AngkorWarrior_190
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1408
+        x: 128
+        y: 1472
         width: 64
         height: 64
       alignment: 0
@@ -4150,8 +4150,8 @@ TextureImporter:
       name: AngkorWarrior_191
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1408
+        x: 192
+        y: 1472
         width: 64
         height: 64
       alignment: 0
@@ -4171,7 +4171,7 @@ TextureImporter:
       name: AngkorWarrior_192
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1408
         width: 64
         height: 64
@@ -4192,7 +4192,7 @@ TextureImporter:
       name: AngkorWarrior_193
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1408
         width: 64
         height: 64
@@ -4213,8 +4213,8 @@ TextureImporter:
       name: AngkorWarrior_194
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1344
+        x: 128
+        y: 1408
         width: 64
         height: 64
       alignment: 0
@@ -4234,8 +4234,8 @@ TextureImporter:
       name: AngkorWarrior_195
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1344
+        x: 192
+        y: 1408
         width: 64
         height: 64
       alignment: 0
@@ -4255,7 +4255,7 @@ TextureImporter:
       name: AngkorWarrior_196
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1344
         width: 64
         height: 64
@@ -4276,7 +4276,7 @@ TextureImporter:
       name: AngkorWarrior_197
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1344
         width: 64
         height: 64
@@ -4297,8 +4297,8 @@ TextureImporter:
       name: AngkorWarrior_198
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1280
+        x: 128
+        y: 1344
         width: 64
         height: 64
       alignment: 0
@@ -4318,8 +4318,8 @@ TextureImporter:
       name: AngkorWarrior_199
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1280
+        x: 192
+        y: 1344
         width: 64
         height: 64
       alignment: 0
@@ -4339,7 +4339,7 @@ TextureImporter:
       name: AngkorWarrior_200
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1280
         width: 64
         height: 64
@@ -4360,7 +4360,7 @@ TextureImporter:
       name: AngkorWarrior_201
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1280
         width: 64
         height: 64
@@ -4381,8 +4381,8 @@ TextureImporter:
       name: AngkorWarrior_202
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1216
+        x: 128
+        y: 1280
         width: 64
         height: 64
       alignment: 0
@@ -4402,8 +4402,8 @@ TextureImporter:
       name: AngkorWarrior_203
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1216
+        x: 192
+        y: 1280
         width: 64
         height: 64
       alignment: 0
@@ -4423,7 +4423,7 @@ TextureImporter:
       name: AngkorWarrior_204
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1216
         width: 64
         height: 64
@@ -4444,7 +4444,7 @@ TextureImporter:
       name: AngkorWarrior_205
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1216
         width: 64
         height: 64
@@ -4465,7 +4465,7 @@ TextureImporter:
       name: AngkorWarrior_206
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1216
         width: 64
         height: 64
@@ -4486,8 +4486,8 @@ TextureImporter:
       name: AngkorWarrior_207
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1152
+        x: 192
+        y: 1216
         width: 64
         height: 64
       alignment: 0
@@ -4507,8 +4507,8 @@ TextureImporter:
       name: AngkorWarrior_208
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1152
+        x: 256
+        y: 1216
         width: 64
         height: 64
       alignment: 0
@@ -4528,7 +4528,7 @@ TextureImporter:
       name: AngkorWarrior_209
       rect:
         serializedVersion: 2
-        x: 128
+        x: 0
         y: 1152
         width: 64
         height: 64
@@ -4549,7 +4549,7 @@ TextureImporter:
       name: AngkorWarrior_210
       rect:
         serializedVersion: 2
-        x: 192
+        x: 64
         y: 1152
         width: 64
         height: 64
@@ -4570,7 +4570,7 @@ TextureImporter:
       name: AngkorWarrior_211
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 1152
         width: 64
         height: 64
@@ -4591,8 +4591,8 @@ TextureImporter:
       name: AngkorWarrior_212
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1088
+        x: 192
+        y: 1152
         width: 64
         height: 64
       alignment: 0
@@ -4612,8 +4612,8 @@ TextureImporter:
       name: AngkorWarrior_213
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1088
+        x: 256
+        y: 1152
         width: 64
         height: 64
       alignment: 0
@@ -4633,8 +4633,8 @@ TextureImporter:
       name: AngkorWarrior_214
       rect:
         serializedVersion: 2
-        x: 128
-        y: 1088
+        x: 320
+        y: 1152
         width: 64
         height: 64
       alignment: 0
@@ -4654,7 +4654,7 @@ TextureImporter:
       name: AngkorWarrior_215
       rect:
         serializedVersion: 2
-        x: 192
+        x: 0
         y: 1088
         width: 64
         height: 64
@@ -4675,7 +4675,7 @@ TextureImporter:
       name: AngkorWarrior_216
       rect:
         serializedVersion: 2
-        x: 256
+        x: 64
         y: 1088
         width: 64
         height: 64
@@ -4696,8 +4696,8 @@ TextureImporter:
       name: AngkorWarrior_217
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1024
+        x: 128
+        y: 1088
         width: 64
         height: 64
       alignment: 0
@@ -4717,8 +4717,8 @@ TextureImporter:
       name: AngkorWarrior_218
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1024
+        x: 192
+        y: 1088
         width: 64
         height: 64
       alignment: 0
@@ -4738,8 +4738,8 @@ TextureImporter:
       name: AngkorWarrior_219
       rect:
         serializedVersion: 2
-        x: 128
-        y: 1024
+        x: 256
+        y: 1088
         width: 64
         height: 64
       alignment: 0
@@ -4759,8 +4759,8 @@ TextureImporter:
       name: AngkorWarrior_220
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1024
+        x: 320
+        y: 1088
         width: 64
         height: 64
       alignment: 0
@@ -4780,7 +4780,7 @@ TextureImporter:
       name: AngkorWarrior_221
       rect:
         serializedVersion: 2
-        x: 256
+        x: 0
         y: 1024
         width: 64
         height: 64
@@ -4801,8 +4801,8 @@ TextureImporter:
       name: AngkorWarrior_222
       rect:
         serializedVersion: 2
-        x: 0
-        y: 960
+        x: 64
+        y: 1024
         width: 64
         height: 64
       alignment: 0
@@ -4822,8 +4822,8 @@ TextureImporter:
       name: AngkorWarrior_223
       rect:
         serializedVersion: 2
-        x: 64
-        y: 960
+        x: 128
+        y: 1024
         width: 64
         height: 64
       alignment: 0
@@ -4843,8 +4843,8 @@ TextureImporter:
       name: AngkorWarrior_224
       rect:
         serializedVersion: 2
-        x: 128
-        y: 960
+        x: 192
+        y: 1024
         width: 64
         height: 64
       alignment: 0
@@ -4864,8 +4864,8 @@ TextureImporter:
       name: AngkorWarrior_225
       rect:
         serializedVersion: 2
-        x: 192
-        y: 960
+        x: 256
+        y: 1024
         width: 64
         height: 64
       alignment: 0
@@ -4885,7 +4885,7 @@ TextureImporter:
       name: AngkorWarrior_226
       rect:
         serializedVersion: 2
-        x: 256
+        x: 0
         y: 960
         width: 64
         height: 64
@@ -4906,7 +4906,7 @@ TextureImporter:
       name: AngkorWarrior_227
       rect:
         serializedVersion: 2
-        x: 320
+        x: 64
         y: 960
         width: 64
         height: 64
@@ -4927,8 +4927,8 @@ TextureImporter:
       name: AngkorWarrior_228
       rect:
         serializedVersion: 2
-        x: 0
-        y: 896
+        x: 128
+        y: 960
         width: 64
         height: 64
       alignment: 0
@@ -4948,8 +4948,8 @@ TextureImporter:
       name: AngkorWarrior_229
       rect:
         serializedVersion: 2
-        x: 64
-        y: 896
+        x: 192
+        y: 960
         width: 64
         height: 64
       alignment: 0
@@ -4969,8 +4969,8 @@ TextureImporter:
       name: AngkorWarrior_230
       rect:
         serializedVersion: 2
-        x: 128
-        y: 896
+        x: 256
+        y: 960
         width: 64
         height: 64
       alignment: 0
@@ -4990,8 +4990,8 @@ TextureImporter:
       name: AngkorWarrior_231
       rect:
         serializedVersion: 2
-        x: 192
-        y: 896
+        x: 320
+        y: 960
         width: 64
         height: 64
       alignment: 0
@@ -5011,7 +5011,7 @@ TextureImporter:
       name: AngkorWarrior_232
       rect:
         serializedVersion: 2
-        x: 256
+        x: 0
         y: 896
         width: 64
         height: 64
@@ -5032,7 +5032,7 @@ TextureImporter:
       name: AngkorWarrior_233
       rect:
         serializedVersion: 2
-        x: 320
+        x: 64
         y: 896
         width: 64
         height: 64
@@ -5053,8 +5053,8 @@ TextureImporter:
       name: AngkorWarrior_234
       rect:
         serializedVersion: 2
-        x: 0
-        y: 832
+        x: 128
+        y: 896
         width: 64
         height: 64
       alignment: 0
@@ -5074,8 +5074,8 @@ TextureImporter:
       name: AngkorWarrior_235
       rect:
         serializedVersion: 2
-        x: 64
-        y: 832
+        x: 192
+        y: 896
         width: 64
         height: 64
       alignment: 0
@@ -5095,8 +5095,8 @@ TextureImporter:
       name: AngkorWarrior_236
       rect:
         serializedVersion: 2
-        x: 128
-        y: 832
+        x: 256
+        y: 896
         width: 64
         height: 64
       alignment: 0
@@ -5116,8 +5116,8 @@ TextureImporter:
       name: AngkorWarrior_237
       rect:
         serializedVersion: 2
-        x: 192
-        y: 832
+        x: 320
+        y: 896
         width: 64
         height: 64
       alignment: 0
@@ -5137,7 +5137,7 @@ TextureImporter:
       name: AngkorWarrior_238
       rect:
         serializedVersion: 2
-        x: 256
+        x: 0
         y: 832
         width: 64
         height: 64
@@ -5158,7 +5158,7 @@ TextureImporter:
       name: AngkorWarrior_239
       rect:
         serializedVersion: 2
-        x: 320
+        x: 64
         y: 832
         width: 64
         height: 64
@@ -5179,8 +5179,8 @@ TextureImporter:
       name: AngkorWarrior_240
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
+        x: 128
+        y: 832
         width: 64
         height: 64
       alignment: 0
@@ -5200,8 +5200,8 @@ TextureImporter:
       name: AngkorWarrior_241
       rect:
         serializedVersion: 2
-        x: 64
-        y: 768
+        x: 192
+        y: 832
         width: 64
         height: 64
       alignment: 0
@@ -5221,8 +5221,8 @@ TextureImporter:
       name: AngkorWarrior_242
       rect:
         serializedVersion: 2
-        x: 128
-        y: 768
+        x: 256
+        y: 832
         width: 64
         height: 64
       alignment: 0
@@ -5242,8 +5242,8 @@ TextureImporter:
       name: AngkorWarrior_243
       rect:
         serializedVersion: 2
-        x: 192
-        y: 768
+        x: 320
+        y: 832
         width: 64
         height: 64
       alignment: 0
@@ -5263,7 +5263,7 @@ TextureImporter:
       name: AngkorWarrior_244
       rect:
         serializedVersion: 2
-        x: 256
+        x: 0
         y: 768
         width: 64
         height: 64
@@ -5284,7 +5284,7 @@ TextureImporter:
       name: AngkorWarrior_245
       rect:
         serializedVersion: 2
-        x: 320
+        x: 64
         y: 768
         width: 64
         height: 64
@@ -5305,8 +5305,8 @@ TextureImporter:
       name: AngkorWarrior_246
       rect:
         serializedVersion: 2
-        x: 0
-        y: 704
+        x: 128
+        y: 768
         width: 64
         height: 64
       alignment: 0
@@ -5326,8 +5326,8 @@ TextureImporter:
       name: AngkorWarrior_247
       rect:
         serializedVersion: 2
-        x: 64
-        y: 704
+        x: 192
+        y: 768
         width: 64
         height: 64
       alignment: 0
@@ -5347,8 +5347,8 @@ TextureImporter:
       name: AngkorWarrior_248
       rect:
         serializedVersion: 2
-        x: 128
-        y: 704
+        x: 256
+        y: 768
         width: 64
         height: 64
       alignment: 0
@@ -5368,8 +5368,8 @@ TextureImporter:
       name: AngkorWarrior_249
       rect:
         serializedVersion: 2
-        x: 192
-        y: 704
+        x: 320
+        y: 768
         width: 64
         height: 64
       alignment: 0
@@ -5389,7 +5389,7 @@ TextureImporter:
       name: AngkorWarrior_250
       rect:
         serializedVersion: 2
-        x: 256
+        x: 0
         y: 704
         width: 64
         height: 64
@@ -5410,7 +5410,7 @@ TextureImporter:
       name: AngkorWarrior_251
       rect:
         serializedVersion: 2
-        x: 320
+        x: 64
         y: 704
         width: 64
         height: 64
@@ -5431,7 +5431,7 @@ TextureImporter:
       name: AngkorWarrior_252
       rect:
         serializedVersion: 2
-        x: 384
+        x: 128
         y: 704
         width: 64
         height: 64
@@ -5452,7 +5452,7 @@ TextureImporter:
       name: AngkorWarrior_253
       rect:
         serializedVersion: 2
-        x: 448
+        x: 192
         y: 704
         width: 64
         height: 64
@@ -5473,8 +5473,8 @@ TextureImporter:
       name: AngkorWarrior_254
       rect:
         serializedVersion: 2
-        x: 0
-        y: 640
+        x: 256
+        y: 704
         width: 64
         height: 64
       alignment: 0
@@ -5494,8 +5494,8 @@ TextureImporter:
       name: AngkorWarrior_255
       rect:
         serializedVersion: 2
-        x: 64
-        y: 640
+        x: 320
+        y: 704
         width: 64
         height: 64
       alignment: 0
@@ -5515,8 +5515,8 @@ TextureImporter:
       name: AngkorWarrior_256
       rect:
         serializedVersion: 2
-        x: 128
-        y: 640
+        x: 384
+        y: 704
         width: 64
         height: 64
       alignment: 0
@@ -5536,8 +5536,8 @@ TextureImporter:
       name: AngkorWarrior_257
       rect:
         serializedVersion: 2
-        x: 192
-        y: 640
+        x: 448
+        y: 704
         width: 64
         height: 64
       alignment: 0
@@ -5557,7 +5557,7 @@ TextureImporter:
       name: AngkorWarrior_258
       rect:
         serializedVersion: 2
-        x: 256
+        x: 0
         y: 640
         width: 64
         height: 64
@@ -5578,7 +5578,7 @@ TextureImporter:
       name: AngkorWarrior_259
       rect:
         serializedVersion: 2
-        x: 320
+        x: 64
         y: 640
         width: 64
         height: 64
@@ -5599,7 +5599,7 @@ TextureImporter:
       name: AngkorWarrior_260
       rect:
         serializedVersion: 2
-        x: 384
+        x: 128
         y: 640
         width: 64
         height: 64
@@ -5620,7 +5620,7 @@ TextureImporter:
       name: AngkorWarrior_261
       rect:
         serializedVersion: 2
-        x: 448
+        x: 192
         y: 640
         width: 64
         height: 64
@@ -5641,8 +5641,8 @@ TextureImporter:
       name: AngkorWarrior_262
       rect:
         serializedVersion: 2
-        x: 0
-        y: 576
+        x: 256
+        y: 640
         width: 64
         height: 64
       alignment: 0
@@ -5662,8 +5662,8 @@ TextureImporter:
       name: AngkorWarrior_263
       rect:
         serializedVersion: 2
-        x: 64
-        y: 576
+        x: 320
+        y: 640
         width: 64
         height: 64
       alignment: 0
@@ -5683,8 +5683,8 @@ TextureImporter:
       name: AngkorWarrior_264
       rect:
         serializedVersion: 2
-        x: 128
-        y: 576
+        x: 384
+        y: 640
         width: 64
         height: 64
       alignment: 0
@@ -5704,8 +5704,8 @@ TextureImporter:
       name: AngkorWarrior_265
       rect:
         serializedVersion: 2
-        x: 192
-        y: 576
+        x: 448
+        y: 640
         width: 64
         height: 64
       alignment: 0
@@ -5725,8 +5725,8 @@ TextureImporter:
       name: AngkorWarrior_266
       rect:
         serializedVersion: 2
-        x: 256
-        y: 576
+        x: 512
+        y: 640
         width: 64
         height: 64
       alignment: 0
@@ -5746,7 +5746,7 @@ TextureImporter:
       name: AngkorWarrior_267
       rect:
         serializedVersion: 2
-        x: 320
+        x: 0
         y: 576
         width: 64
         height: 64
@@ -5767,7 +5767,7 @@ TextureImporter:
       name: AngkorWarrior_268
       rect:
         serializedVersion: 2
-        x: 384
+        x: 64
         y: 576
         width: 64
         height: 64
@@ -5788,7 +5788,7 @@ TextureImporter:
       name: AngkorWarrior_269
       rect:
         serializedVersion: 2
-        x: 448
+        x: 128
         y: 576
         width: 64
         height: 64
@@ -5809,8 +5809,8 @@ TextureImporter:
       name: AngkorWarrior_270
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
+        x: 192
+        y: 576
         width: 64
         height: 64
       alignment: 0
@@ -5830,8 +5830,8 @@ TextureImporter:
       name: AngkorWarrior_271
       rect:
         serializedVersion: 2
-        x: 64
-        y: 512
+        x: 256
+        y: 576
         width: 64
         height: 64
       alignment: 0
@@ -5851,8 +5851,8 @@ TextureImporter:
       name: AngkorWarrior_272
       rect:
         serializedVersion: 2
-        x: 128
-        y: 512
+        x: 320
+        y: 576
         width: 64
         height: 64
       alignment: 0
@@ -5872,8 +5872,8 @@ TextureImporter:
       name: AngkorWarrior_273
       rect:
         serializedVersion: 2
-        x: 192
-        y: 512
+        x: 384
+        y: 576
         width: 64
         height: 64
       alignment: 0
@@ -5893,8 +5893,8 @@ TextureImporter:
       name: AngkorWarrior_274
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
+        x: 448
+        y: 576
         width: 64
         height: 64
       alignment: 0
@@ -5914,8 +5914,8 @@ TextureImporter:
       name: AngkorWarrior_275
       rect:
         serializedVersion: 2
-        x: 320
-        y: 512
+        x: 512
+        y: 576
         width: 64
         height: 64
       alignment: 0
@@ -5935,7 +5935,7 @@ TextureImporter:
       name: AngkorWarrior_276
       rect:
         serializedVersion: 2
-        x: 384
+        x: 0
         y: 512
         width: 64
         height: 64
@@ -5956,7 +5956,7 @@ TextureImporter:
       name: AngkorWarrior_277
       rect:
         serializedVersion: 2
-        x: 448
+        x: 64
         y: 512
         width: 64
         height: 64
@@ -5977,8 +5977,8 @@ TextureImporter:
       name: AngkorWarrior_278
       rect:
         serializedVersion: 2
-        x: 0
-        y: 448
+        x: 128
+        y: 512
         width: 64
         height: 64
       alignment: 0
@@ -5998,8 +5998,8 @@ TextureImporter:
       name: AngkorWarrior_279
       rect:
         serializedVersion: 2
-        x: 64
-        y: 448
+        x: 192
+        y: 512
         width: 64
         height: 64
       alignment: 0
@@ -6019,8 +6019,8 @@ TextureImporter:
       name: AngkorWarrior_280
       rect:
         serializedVersion: 2
-        x: 128
-        y: 448
+        x: 256
+        y: 512
         width: 64
         height: 64
       alignment: 0
@@ -6040,8 +6040,8 @@ TextureImporter:
       name: AngkorWarrior_281
       rect:
         serializedVersion: 2
-        x: 192
-        y: 448
+        x: 320
+        y: 512
         width: 64
         height: 64
       alignment: 0
@@ -6061,8 +6061,8 @@ TextureImporter:
       name: AngkorWarrior_282
       rect:
         serializedVersion: 2
-        x: 256
-        y: 448
+        x: 384
+        y: 512
         width: 64
         height: 64
       alignment: 0
@@ -6082,8 +6082,8 @@ TextureImporter:
       name: AngkorWarrior_283
       rect:
         serializedVersion: 2
-        x: 320
-        y: 448
+        x: 448
+        y: 512
         width: 64
         height: 64
       alignment: 0
@@ -6103,7 +6103,7 @@ TextureImporter:
       name: AngkorWarrior_284
       rect:
         serializedVersion: 2
-        x: 384
+        x: 0
         y: 448
         width: 64
         height: 64
@@ -6124,7 +6124,7 @@ TextureImporter:
       name: AngkorWarrior_285
       rect:
         serializedVersion: 2
-        x: 448
+        x: 64
         y: 448
         width: 64
         height: 64
@@ -6145,7 +6145,7 @@ TextureImporter:
       name: AngkorWarrior_286
       rect:
         serializedVersion: 2
-        x: 512
+        x: 128
         y: 448
         width: 64
         height: 64
@@ -6166,7 +6166,7 @@ TextureImporter:
       name: AngkorWarrior_287
       rect:
         serializedVersion: 2
-        x: 576
+        x: 192
         y: 448
         width: 64
         height: 64
@@ -6187,7 +6187,7 @@ TextureImporter:
       name: AngkorWarrior_288
       rect:
         serializedVersion: 2
-        x: 640
+        x: 256
         y: 448
         width: 64
         height: 64
@@ -6208,7 +6208,7 @@ TextureImporter:
       name: AngkorWarrior_289
       rect:
         serializedVersion: 2
-        x: 704
+        x: 320
         y: 448
         width: 64
         height: 64
@@ -6229,7 +6229,7 @@ TextureImporter:
       name: AngkorWarrior_290
       rect:
         serializedVersion: 2
-        x: 768
+        x: 384
         y: 448
         width: 64
         height: 64
@@ -6250,8 +6250,8 @@ TextureImporter:
       name: AngkorWarrior_291
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
+        x: 448
+        y: 448
         width: 64
         height: 64
       alignment: 0
@@ -6271,8 +6271,8 @@ TextureImporter:
       name: AngkorWarrior_292
       rect:
         serializedVersion: 2
-        x: 64
-        y: 384
+        x: 512
+        y: 448
         width: 64
         height: 64
       alignment: 0
@@ -6292,8 +6292,8 @@ TextureImporter:
       name: AngkorWarrior_293
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
+        x: 576
+        y: 448
         width: 64
         height: 64
       alignment: 0
@@ -6313,8 +6313,8 @@ TextureImporter:
       name: AngkorWarrior_294
       rect:
         serializedVersion: 2
-        x: 192
-        y: 384
+        x: 640
+        y: 448
         width: 64
         height: 64
       alignment: 0
@@ -6334,8 +6334,8 @@ TextureImporter:
       name: AngkorWarrior_295
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
+        x: 704
+        y: 448
         width: 64
         height: 64
       alignment: 0
@@ -6355,8 +6355,8 @@ TextureImporter:
       name: AngkorWarrior_296
       rect:
         serializedVersion: 2
-        x: 320
-        y: 384
+        x: 768
+        y: 448
         width: 64
         height: 64
       alignment: 0
@@ -6376,7 +6376,7 @@ TextureImporter:
       name: AngkorWarrior_297
       rect:
         serializedVersion: 2
-        x: 384
+        x: 0
         y: 384
         width: 64
         height: 64
@@ -6397,7 +6397,7 @@ TextureImporter:
       name: AngkorWarrior_298
       rect:
         serializedVersion: 2
-        x: 448
+        x: 64
         y: 384
         width: 64
         height: 64
@@ -6418,7 +6418,7 @@ TextureImporter:
       name: AngkorWarrior_299
       rect:
         serializedVersion: 2
-        x: 512
+        x: 128
         y: 384
         width: 64
         height: 64
@@ -6439,7 +6439,7 @@ TextureImporter:
       name: AngkorWarrior_300
       rect:
         serializedVersion: 2
-        x: 576
+        x: 192
         y: 384
         width: 64
         height: 64
@@ -6460,7 +6460,7 @@ TextureImporter:
       name: AngkorWarrior_301
       rect:
         serializedVersion: 2
-        x: 640
+        x: 256
         y: 384
         width: 64
         height: 64
@@ -6481,7 +6481,7 @@ TextureImporter:
       name: AngkorWarrior_302
       rect:
         serializedVersion: 2
-        x: 704
+        x: 320
         y: 384
         width: 64
         height: 64
@@ -6502,7 +6502,7 @@ TextureImporter:
       name: AngkorWarrior_303
       rect:
         serializedVersion: 2
-        x: 768
+        x: 384
         y: 384
         width: 64
         height: 64
@@ -6523,8 +6523,8 @@ TextureImporter:
       name: AngkorWarrior_304
       rect:
         serializedVersion: 2
-        x: 0
-        y: 320
+        x: 448
+        y: 384
         width: 64
         height: 64
       alignment: 0
@@ -6544,8 +6544,8 @@ TextureImporter:
       name: AngkorWarrior_305
       rect:
         serializedVersion: 2
-        x: 64
-        y: 320
+        x: 512
+        y: 384
         width: 64
         height: 64
       alignment: 0
@@ -6565,8 +6565,8 @@ TextureImporter:
       name: AngkorWarrior_306
       rect:
         serializedVersion: 2
-        x: 128
-        y: 320
+        x: 576
+        y: 384
         width: 64
         height: 64
       alignment: 0
@@ -6586,8 +6586,8 @@ TextureImporter:
       name: AngkorWarrior_307
       rect:
         serializedVersion: 2
-        x: 192
-        y: 320
+        x: 640
+        y: 384
         width: 64
         height: 64
       alignment: 0
@@ -6607,8 +6607,8 @@ TextureImporter:
       name: AngkorWarrior_308
       rect:
         serializedVersion: 2
-        x: 256
-        y: 320
+        x: 704
+        y: 384
         width: 64
         height: 64
       alignment: 0
@@ -6628,8 +6628,8 @@ TextureImporter:
       name: AngkorWarrior_309
       rect:
         serializedVersion: 2
-        x: 320
-        y: 320
+        x: 768
+        y: 384
         width: 64
         height: 64
       alignment: 0
@@ -6649,7 +6649,7 @@ TextureImporter:
       name: AngkorWarrior_310
       rect:
         serializedVersion: 2
-        x: 384
+        x: 0
         y: 320
         width: 64
         height: 64
@@ -6670,7 +6670,7 @@ TextureImporter:
       name: AngkorWarrior_311
       rect:
         serializedVersion: 2
-        x: 448
+        x: 64
         y: 320
         width: 64
         height: 64
@@ -6691,7 +6691,7 @@ TextureImporter:
       name: AngkorWarrior_312
       rect:
         serializedVersion: 2
-        x: 512
+        x: 128
         y: 320
         width: 64
         height: 64
@@ -6712,7 +6712,7 @@ TextureImporter:
       name: AngkorWarrior_313
       rect:
         serializedVersion: 2
-        x: 576
+        x: 192
         y: 320
         width: 64
         height: 64
@@ -6733,7 +6733,7 @@ TextureImporter:
       name: AngkorWarrior_314
       rect:
         serializedVersion: 2
-        x: 640
+        x: 256
         y: 320
         width: 64
         height: 64
@@ -6754,7 +6754,7 @@ TextureImporter:
       name: AngkorWarrior_315
       rect:
         serializedVersion: 2
-        x: 704
+        x: 320
         y: 320
         width: 64
         height: 64
@@ -6775,7 +6775,7 @@ TextureImporter:
       name: AngkorWarrior_316
       rect:
         serializedVersion: 2
-        x: 768
+        x: 384
         y: 320
         width: 64
         height: 64
@@ -6796,8 +6796,8 @@ TextureImporter:
       name: AngkorWarrior_317
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
+        x: 448
+        y: 320
         width: 64
         height: 64
       alignment: 0
@@ -6817,8 +6817,8 @@ TextureImporter:
       name: AngkorWarrior_318
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
+        x: 512
+        y: 320
         width: 64
         height: 64
       alignment: 0
@@ -6838,8 +6838,8 @@ TextureImporter:
       name: AngkorWarrior_319
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
+        x: 576
+        y: 320
         width: 64
         height: 64
       alignment: 0
@@ -6859,8 +6859,8 @@ TextureImporter:
       name: AngkorWarrior_320
       rect:
         serializedVersion: 2
-        x: 192
-        y: 256
+        x: 640
+        y: 320
         width: 64
         height: 64
       alignment: 0
@@ -6880,8 +6880,8 @@ TextureImporter:
       name: AngkorWarrior_321
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
+        x: 704
+        y: 320
         width: 64
         height: 64
       alignment: 0
@@ -6901,8 +6901,8 @@ TextureImporter:
       name: AngkorWarrior_322
       rect:
         serializedVersion: 2
-        x: 320
-        y: 256
+        x: 768
+        y: 320
         width: 64
         height: 64
       alignment: 0
@@ -6922,7 +6922,7 @@ TextureImporter:
       name: AngkorWarrior_323
       rect:
         serializedVersion: 2
-        x: 384
+        x: 0
         y: 256
         width: 64
         height: 64
@@ -6943,7 +6943,7 @@ TextureImporter:
       name: AngkorWarrior_324
       rect:
         serializedVersion: 2
-        x: 448
+        x: 64
         y: 256
         width: 64
         height: 64
@@ -6964,7 +6964,7 @@ TextureImporter:
       name: AngkorWarrior_325
       rect:
         serializedVersion: 2
-        x: 512
+        x: 128
         y: 256
         width: 64
         height: 64
@@ -6985,7 +6985,7 @@ TextureImporter:
       name: AngkorWarrior_326
       rect:
         serializedVersion: 2
-        x: 576
+        x: 192
         y: 256
         width: 64
         height: 64
@@ -7006,7 +7006,7 @@ TextureImporter:
       name: AngkorWarrior_327
       rect:
         serializedVersion: 2
-        x: 640
+        x: 256
         y: 256
         width: 64
         height: 64
@@ -7027,7 +7027,7 @@ TextureImporter:
       name: AngkorWarrior_328
       rect:
         serializedVersion: 2
-        x: 704
+        x: 320
         y: 256
         width: 64
         height: 64
@@ -7048,7 +7048,7 @@ TextureImporter:
       name: AngkorWarrior_329
       rect:
         serializedVersion: 2
-        x: 768
+        x: 384
         y: 256
         width: 64
         height: 64
@@ -7069,8 +7069,8 @@ TextureImporter:
       name: AngkorWarrior_330
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
+        x: 448
+        y: 256
         width: 64
         height: 64
       alignment: 0
@@ -7090,8 +7090,8 @@ TextureImporter:
       name: AngkorWarrior_331
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
+        x: 512
+        y: 256
         width: 64
         height: 64
       alignment: 0
@@ -7111,8 +7111,8 @@ TextureImporter:
       name: AngkorWarrior_332
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
+        x: 576
+        y: 256
         width: 64
         height: 64
       alignment: 0
@@ -7132,8 +7132,8 @@ TextureImporter:
       name: AngkorWarrior_333
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
+        x: 640
+        y: 256
         width: 64
         height: 64
       alignment: 0
@@ -7153,8 +7153,8 @@ TextureImporter:
       name: AngkorWarrior_334
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
+        x: 704
+        y: 256
         width: 64
         height: 64
       alignment: 0
@@ -7174,8 +7174,8 @@ TextureImporter:
       name: AngkorWarrior_335
       rect:
         serializedVersion: 2
-        x: 320
-        y: 192
+        x: 768
+        y: 256
         width: 64
         height: 64
       alignment: 0
@@ -7196,7 +7196,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -7217,7 +7217,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 128
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -7238,7 +7238,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 128
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -7259,7 +7259,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 128
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -7280,7 +7280,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 128
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -7301,7 +7301,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 128
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -7321,8 +7321,8 @@ TextureImporter:
       name: AngkorWarrior_342
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
+        x: 640
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -7342,8 +7342,8 @@ TextureImporter:
       name: AngkorWarrior_343
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
+        x: 704
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -7363,8 +7363,8 @@ TextureImporter:
       name: AngkorWarrior_344
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
+        x: 768
+        y: 192
         width: 64
         height: 64
       alignment: 0
@@ -7384,8 +7384,8 @@ TextureImporter:
       name: AngkorWarrior_345
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
+        x: 0
+        y: 128
         width: 64
         height: 64
       alignment: 0
@@ -7405,8 +7405,8 @@ TextureImporter:
       name: AngkorWarrior_346
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
+        x: 64
+        y: 128
         width: 64
         height: 64
       alignment: 0
@@ -7426,8 +7426,8 @@ TextureImporter:
       name: AngkorWarrior_347
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
+        x: 128
+        y: 128
         width: 64
         height: 64
       alignment: 0
@@ -7447,8 +7447,8 @@ TextureImporter:
       name: AngkorWarrior_348
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 192
+        y: 128
         width: 64
         height: 64
       alignment: 0
@@ -7468,8 +7468,8 @@ TextureImporter:
       name: AngkorWarrior_349
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
+        x: 256
+        y: 128
         width: 64
         height: 64
       alignment: 0
@@ -7489,8 +7489,8 @@ TextureImporter:
       name: AngkorWarrior_350
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
+        x: 320
+        y: 128
         width: 64
         height: 64
       alignment: 0
@@ -7510,8 +7510,8 @@ TextureImporter:
       name: AngkorWarrior_351
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
+        x: 0
+        y: 64
         width: 64
         height: 64
       alignment: 0
@@ -7531,8 +7531,8 @@ TextureImporter:
       name: AngkorWarrior_352
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
+        x: 64
+        y: 64
         width: 64
         height: 64
       alignment: 0
@@ -7552,8 +7552,8 @@ TextureImporter:
       name: AngkorWarrior_353
       rect:
         serializedVersion: 2
-        x: 320
-        y: 0
+        x: 128
+        y: 64
         width: 64
         height: 64
       alignment: 0
@@ -7565,6 +7565,216 @@ TextureImporter:
       bones: []
       spriteID: 187f7ab858f25d44a81e6163fc13e7b5
       internalID: -1410352331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_354
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1538477b886c9d42908cce33ac806e3
+      internalID: 1638247809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_355
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de32db35de13fe347bcc98f124cbbd6a
+      internalID: 81285765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_356
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127852575cf1c0d4e859e46cb1ffb366
+      internalID: 1156150933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_357
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efa841bbac1de14b9d68c0d8bd6abc2
+      internalID: 197333204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_358
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee30ea0846164144e994cce128863133
+      internalID: 471893702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_359
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b446d1af9524d4cb116491fbabb134
+      internalID: -925121250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_360
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c27e4a7a37ea24da5bc9f34885ad3b
+      internalID: -1186953125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_361
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5127513b501a748bec9ed2f09a2aa9
+      internalID: 934600332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_362
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912d1b1172ca59646af4141025be51cc
+      internalID: 687381886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngkorWarrior_363
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763c9252b1c396e49a7e0141b3a2d253
+      internalID: 562485070
       vertices: []
       indices: 
       edges: []
@@ -7864,7 +8074,17 @@ TextureImporter:
       AngkorWarrior_351: -736586991
       AngkorWarrior_352: 1193733902
       AngkorWarrior_353: -1410352331
+      AngkorWarrior_354: 1638247809
+      AngkorWarrior_355: 81285765
+      AngkorWarrior_356: 1156150933
+      AngkorWarrior_357: 197333204
+      AngkorWarrior_358: 471893702
+      AngkorWarrior_359: -925121250
       AngkorWarrior_36: -1956982380
+      AngkorWarrior_360: -1186953125
+      AngkorWarrior_361: 934600332
+      AngkorWarrior_362: 687381886
+      AngkorWarrior_363: 562485070
       AngkorWarrior_37: 1714713884
       AngkorWarrior_38: 1554284276
       AngkorWarrior_39: -1102454888
