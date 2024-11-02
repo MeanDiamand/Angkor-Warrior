@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D), typeof(TouchingDirections))]
+[RequireComponent(typeof(Rigidbody2D), typeof(TouchingDirections), typeof(Damageable))]
 public class Yeaksa : MonoBehaviour
 {
     public float walkSpeed = 3f;
@@ -11,10 +11,14 @@ public class Yeaksa : MonoBehaviour
     public enum WalkingDirection { Right, Left }
     private WalkingDirection walkDirection;
     private Vector2 walkDirectionVector = Vector2.right;
+
     TouchingDirections touchingDirections;
     public DetectionZone detectAttackZone;
+    public DetectionZone cliffDetectionZone;
+
     Animator animator;
     public float walkStopRate = 0.05f;
+    Damageable damageable;
 
     public WalkingDirection WalkDirection
     {
@@ -58,16 +62,34 @@ public class Yeaksa : MonoBehaviour
         }
     }
 
+    public float AttackCooldown 
+    { 
+        get
+        {
+            return animator.GetFloat(AnimationStrings.attackCooldown);
+        }
+        private set
+        {
+            animator.SetFloat(AnimationStrings.attackCooldown, Mathf.Max(value, 0));
+        }
+    }
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         touchingDirections = GetComponent<TouchingDirections>();
         animator = GetComponent<Animator>();
+        damageable =  GetComponent<Damageable>();
     }
 
     void Update()
     {
         HasTarget = detectAttackZone.detectedColliders.Count > 0;
+        
+        if(AttackCooldown > 0)
+        {
+            AttackCooldown -= Time.deltaTime;
+        }
     }
 
     private void FixedUpdate()
@@ -76,13 +98,16 @@ public class Yeaksa : MonoBehaviour
         {
             FlipDirection();
         }
-        if(CanMove)
+        if(!damageable.LockVelocity)
         {
-            rb.velocity = new Vector2(walkSpeed * walkDirectionVector.x, rb.velocity.y);
-        }
-        else
-        {
-            rb.velocity = new Vector2(Mathf.Lerp(rb.velocity.x, 0, walkStopRate), rb.velocity.y);
+            if (CanMove)
+            {
+                rb.velocity = new Vector2(walkSpeed * walkDirectionVector.x, rb.velocity.y);
+            }
+            else
+            {
+                rb.velocity = new Vector2(Mathf.Lerp(rb.velocity.x, 0, walkStopRate), rb.velocity.y);
+            }
         }
     }
 
@@ -99,6 +124,19 @@ public class Yeaksa : MonoBehaviour
         else
         {
             Debug.LogError("Walking Direction is not currently set to left or right");
+        }
+    }
+
+    public void OnHit(int damage, Vector2 knock)
+    {
+        rb.velocity = new Vector2(knock.x, rb.velocity.y + knock.y);
+    }
+
+    public void OnCliffDetected()
+    {
+        if(touchingDirections.IsGrounded)
+        {
+            FlipDirection();
         }
     }
 }

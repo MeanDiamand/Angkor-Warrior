@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Damageable : MonoBehaviour
 {
+    public UnityEvent<int, Vector2> damageableHit;
     Animator animator;
 
     [SerializeField]
@@ -34,6 +36,7 @@ public class Damageable : MonoBehaviour
         set
         {
             health = value;
+            // If the health drops below 0, the warrior will not alive anymore
             if (health <= 0)
             {
                 IsAlive = false;
@@ -46,6 +49,7 @@ public class Damageable : MonoBehaviour
 
     [SerializeField]
     private bool isInvincible = false;
+
     private float timeSinceHit = 0;
     public float invincibilityTime = 0.25f;
 
@@ -60,6 +64,19 @@ public class Damageable : MonoBehaviour
             isAlive = value;
             animator.SetBool(AnimationStrings.isAlive, value);
             Debug.Log("IsAlive: " + value);
+        }
+    }
+
+    // The velocity shouldn't be change when this is true but needs to be respected by the other physics components like the PlayerController
+    public bool LockVelocity
+    {
+        get
+        {
+            return animator.GetBool(AnimationStrings.lockVelocity);
+        }
+        set
+        {
+            animator.SetBool(AnimationStrings.lockVelocity, value);
         }
     }
 
@@ -80,15 +97,25 @@ public class Damageable : MonoBehaviour
             }
             timeSinceHit += Time.deltaTime;
         }
-        Hit(10);
     }
 
-    public void Hit(int damage)
+    // Returns when the damageble took damage or not
+    public bool Hit(int damage, Vector2 knock)
     {
         if(IsAlive && !isInvincible)
         {
             Health -= damage;
             isInvincible = true;
+
+            // Notify the other subscribed components that the damageable was hit to handle the knock
+            animator.SetTrigger(AnimationStrings.hitTrigger);
+            LockVelocity = true;
+            damageableHit?.Invoke(damage, knock);
+
+            return true;
         }
+
+        // Unable to be hit
+        return false;
     }
 }
