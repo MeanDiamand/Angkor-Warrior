@@ -13,6 +13,8 @@ public class PlayerController : MonoBehaviour
     TouchingDirections touchingDirections;
     Damageable damageable;
 
+    AudioManager audioManager;
+
     public float CurrentMoveSpeed
     {
         get
@@ -91,6 +93,7 @@ public class PlayerController : MonoBehaviour
         animator = GetComponent<Animator>();
         touchingDirections = GetComponent<TouchingDirections>();
         damageable = GetComponent<Damageable>();    
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     private void FixedUpdate()
@@ -112,6 +115,7 @@ public class PlayerController : MonoBehaviour
             IsMoving = moveInput != Vector2.zero;
 
             SetFacingDirection(moveInput);
+            audioManager.PlaySFX(audioManager.walking);
         }
         else
         {
@@ -145,6 +149,7 @@ public class PlayerController : MonoBehaviour
     {
         if(context.started)
         {
+            audioManager.PlaySFX(audioManager.swordSwing);
             animator.SetTrigger(AnimationStrings.attackTrigger);
         }
     }

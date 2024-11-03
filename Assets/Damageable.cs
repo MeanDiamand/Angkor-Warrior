@@ -1,3 +1,4 @@
+using Assets.Scripts.Events;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,6 +7,7 @@ using UnityEngine.Events;
 public class Damageable : MonoBehaviour
 {
     public UnityEvent<int, Vector2> damageableHit;
+    public UnityEvent<int, int> healthChanged;
     Animator animator;
 
     [SerializeField]
@@ -36,6 +38,7 @@ public class Damageable : MonoBehaviour
         set
         {
             health = value;
+            healthChanged?.Invoke(health, MaxHealth);
             // If the health drops below 0, the warrior will not alive anymore
             if (health <= 0)
             {
@@ -111,11 +114,30 @@ public class Damageable : MonoBehaviour
             animator.SetTrigger(AnimationStrings.hitTrigger);
             LockVelocity = true;
             damageableHit?.Invoke(damage, knock);
+            CharacterEvents.characterDamaged.Invoke(gameObject, damage);
 
             return true;
         }
 
         // Unable to be hit
+        return false;
+    }
+
+    // returns if the character can be heal or not
+    public bool Heal(int healthRestore)
+    {
+        // Check if the character is alive and doesn't have a full health then it can be heal
+        if(IsAlive && Health < MaxHealth)
+        {
+            int maxHeal = Mathf.Max(MaxHealth - Health, 0);
+            int actualHeal = Mathf.Min(maxHeal, healthRestore);
+            Health += actualHeal;
+
+            CharacterEvents.characterHealed(gameObject, actualHeal);
+            return true;
+        }
+
+        // otherwise not
         return false;
     }
 }

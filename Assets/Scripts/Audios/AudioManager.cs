@@ -10,6 +10,9 @@ public class AudioManager : MonoBehaviour
 
     [Header("----------- Audio Clip ----------")]
     public AudioClip background;
+    public AudioClip swordSwing;
+    public AudioClip eat;
+    public AudioClip walking;
 
     private void Start()
     {
