@@ -9,6 +9,7 @@ public class Damageable : MonoBehaviour
     public UnityEvent<int, Vector2> damageableHit;
     public UnityEvent<int, int> healthChanged;
     Animator animator;
+    AudioManager audioManager;
 
     [SerializeField]
     private int maxHealth = 100;
@@ -42,6 +43,12 @@ public class Damageable : MonoBehaviour
             // If the health drops below 0, the warrior will not alive anymore
             if (health <= 0)
             {
+                if (CompareTag("Player")) // Only trigger game over for player
+                {
+                    Destroy(gameObject);
+                    GameOverEvents.isGameOver = true;
+                    audioManager.PlaySFX(audioManager.gameOver);
+                }
                 IsAlive = false;
             }
         }
@@ -86,6 +93,7 @@ public class Damageable : MonoBehaviour
     private void Awake()
     {
         animator = GetComponent<Animator>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     public void Update()

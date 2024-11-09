@@ -13,6 +13,8 @@ public class AudioManager : MonoBehaviour
     public AudioClip swordSwing;
     public AudioClip eat;
     public AudioClip walking;
+    public AudioClip gameOver;
+    public AudioClip victory;
 
     private void Start()
     {

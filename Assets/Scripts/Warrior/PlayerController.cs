@@ -15,6 +15,9 @@ public class PlayerController : MonoBehaviour
 
     AudioManager audioManager;
 
+    [SerializeField]
+    private float deathBoundaryY = -10f;
+
     public float CurrentMoveSpeed
     {
         get
@@ -104,6 +107,13 @@ public class PlayerController : MonoBehaviour
         }
         
         animator.SetFloat(AnimationStrings.yVelocity, rb.velocity.y);
+
+        // Check if the player has fallen below the death boundary
+        if (transform.position.y < deathBoundaryY)
+        {
+            damageable.Health = 0; // This will trigger the death logic in the Damageable class
+            Destroy(gameObject);
+        }
     }
 
     public void OnMove(InputAction.CallbackContext context)
